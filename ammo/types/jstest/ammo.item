@@ -1,0 +1,13 @@
+{
+	"itemName" : "jstestammo",
+	"price" : 5,
+	"rarity" : "common",
+	"maxStack" : 25000,
+	"category" : "craftingMaterial",
+	"inventoryIcon" : "jstestammo.png",
+	"description" : "actually testing",
+	"shortdescription" : "test ammo",
+	"casingProjectile" : "jstest_casing",
+	"projectile" : "jstestproj",
+	"projectileConfig" : {"speed" : 10, "power" : 10000}
+}

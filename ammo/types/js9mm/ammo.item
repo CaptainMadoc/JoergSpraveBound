@@ -1,0 +1,13 @@
+{
+	"itemName" : "js9mmammo",
+	"price" : 5,
+	"rarity" : "common",
+	"maxStack" : 25000,
+	"category" : "craftingMaterial",
+	"inventoryIcon" : "js9mmParabellum.png",
+	"description" : "test",
+	"shortdescription" : "9mm",
+	"casingProjectile" : "js9mmParabellum_casing",
+	"projectile" : "js9mmproj",
+	"projectileConfig" : {"speed" : 100, "power" : 10}
+}
